@@ -1,0 +1,4 @@
+Regarding the questions from the Test Task.docx:
+
+1) No, the given sequence is considered wrong.
+2) The reason it is not correct is the double square bracket at the end. Basically, to make it correct we need to remove last square bracket.
